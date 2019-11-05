@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		ED75832E2371596900A4D5C9 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.python; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		ED7583232371590800A4D5C9 = {
 			isa = PBXGroup;
 			children = (
+				ED75832E2371596900A4D5C9 /* main.py */,
 			);
 			sourceTree = "<group>";
 		};
